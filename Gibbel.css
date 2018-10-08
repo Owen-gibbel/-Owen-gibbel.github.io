@@ -1,0 +1,43 @@
+p {
+    color:black;
+    font-family: "times newer roman" serif, sans-serif; 
+    text-align: center;
+    
+}
+
+h1 {
+    color:black;
+    font-style: oblique;
+    text-align: center;
+}
+
+
+body {
+    background-image: url(images/ocean.jpg);
+    
+}
+img {
+    width:500px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+
+
+li a {
+    display:block;
+    width: 60px;
+    
+}
+li a:active {
+    background-color: #0F8BD2;
+    
+}
+li a:link {
+    background-color: #06679F;
+}
+li {
+    display: inline;
+}
